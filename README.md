@@ -23,7 +23,7 @@ para a tomada de decisão.
 - ⌖ **Location** · São Paulo, Brasil
 - ⌗ **Experience** · Experiência como Analista Jr
 - ◎ **Education** · Tecnólogo em Banco de Dados - Cursando
-- ⟳ **Learning** · Python, SQL, Power BI, Data Analytcs
+- ⟳ **Learning** · Python, SQL, Power BI, Data Analytics
 
 ## Tools I Reach For
 
