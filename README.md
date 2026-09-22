@@ -23,7 +23,7 @@ para a tomada de decisão.
 - ⌖ **Location** · São Paulo, Brasil
 - ⌗ **Experience** · Experiência como Analista Jr
 - ◎ **Education** · Tecnólogo em Banco de Dados - Cursando
-- ⟳ **Learning** · Python, SQL, Power BI, Data Analytics
+- ⟳ **Learning** · Python, SQL, Power BI, Data Analytcs
 
 ## Tools I Reach For
 
@@ -45,12 +45,6 @@ para a tomada de decisão.
 
 ## Languages
 - 🇬🇧 **English** · ![Intermediate](https://img.shields.io/badge/-Intermediate-f7c948?style=flat-square)
-
-## GitHub Signals
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=andreyclobo20&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&hide_border=true" alt="Andrey C Lobo stats"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyclobo20&layout=compact&langs_count=8&theme=ocean_dark&hide_border=true" alt="Andrey C Lobo top languages"/>
 
 <div align="center">
 
